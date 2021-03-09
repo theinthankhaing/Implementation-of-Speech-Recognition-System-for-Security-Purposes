@@ -1,2 +1,1 @@
-# Speech_Recognition
-FYP
+# Implementation of Speech Recognition System for Security Purposes
