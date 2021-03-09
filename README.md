@@ -84,6 +84,6 @@ _____________________________________________________________________
 ![image](https://user-images.githubusercontent.com/50255936/110492860-76b4bd80-812d-11eb-82a6-dce6f09cddeb.png)
 _____________________________________________________________________
 
-## The Video of the experiment is shown below. Please click the photo.
+## The Video of the Real Time Recognition is shown below. Please click the photo.
 
 [![image](https://user-images.githubusercontent.com/50255936/110493067-82a07f80-812d-11eb-9b45-171ac2a00629.png)](https://user-images.githubusercontent.com/50255936/110493627-c2fffd80-812d-11eb-9d85-9dbcbe91c5ad.mp4)
