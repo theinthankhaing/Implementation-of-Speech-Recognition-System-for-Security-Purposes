@@ -5,7 +5,7 @@ ________________________________________________________________________________
 * Recorded  6 words  with different syllables  
 * Preprocessed these words using combination of zero-crossing rate (ZCR) and Energy Calculation
 * Extracted features using Mel-Frequency Cepstral Coefficients (MFCC)
-* Performed recognition using Vector Quantization (VQ) and Dynamic Time Warping (DTW)
+* Performed feature training and recognition using Vector Quantization (VQ) and Dynamic Time Warping (DTW)
 * Built a prototype of house and  attached the door, which is automated by using ARDUINO controlling servo motor
 * Sent the recognized output from MATLAB to ARDUINO using Bluetooth and  ARDUINO performed open and close of the door based on the recognition ouput
 * Obtained 90% of recognition accuracy for the user by using Vector Quantization for recognition
