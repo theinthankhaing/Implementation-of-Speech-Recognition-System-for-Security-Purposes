@@ -7,6 +7,21 @@ ________________________________________________________________________________
 * Extracted features using MFCC (Mel-Frequency Cepstral Coefficients)
 * Performed recognition using Vector Quantization (VQ) and Dynamic Time Warping (DTW)
 * Built a prototype of house and  attached the door, which is automated by using ARDUINO controlling servo motor
-* Sent the recognized output from MATLAB to ARDUINO  and  ARDUINO performed open and close of the door based on the recognition ouput
+* Sent the recognized output from MATLAB to ARDUINO using Bluetooth and  ARDUINO performed open and close of the door based on the recognition ouput
 * Obtained 90% of recognition accuracy for the user
 ________________________________________________________________________________________________________
+## SetUp Environment
+* MATLAB (>2018a version)
+* Arduino Software
+* [MATLAB support package for ARDUINO Hardware](https://www.mathworks.com/matlabcentral/fileexchange/47522-matlab-support-package-for-arduino-hardware)
+_____________________________________________________________________________________________________________
+## Hardware Requirement
+* Arduino Uno
+* HC - 05 Bluetooth Module
+* LCD Display
+* Servo Motor (Tower Pro Sg 90 micro servo motor is used)
+* Buzzer for alarm
+* LEDs
+______________________________________________________________________________________________________________________________
+## System Block Diagram
+![image](https://user-images.githubusercontent.com/50255936/110486989-20914b80-8128-11eb-8649-c4db3941f43c.png)
