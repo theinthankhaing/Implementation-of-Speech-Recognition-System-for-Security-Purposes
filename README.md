@@ -18,10 +18,15 @@ ________________________________________________________________________________
 ## Hardware Requirement
 * Arduino Uno
 * HC - 05 Bluetooth Module
-* LCD Display
+* 16 x 2 LCD Display
 * Servo Motor (Tower Pro Sg 90 micro servo motor is used)
 * Buzzer for alarm
 * LEDs
+* Potentiometer
+* Power bank or Mobile phone charger
+* PCB boards
+* Wood
+* Fibre card
 ______________________________________________________________________________________________________________________________
 ## System Block Diagram
 ![image](https://user-images.githubusercontent.com/50255936/110486989-20914b80-8128-11eb-8649-c4db3941f43c.png)
@@ -54,9 +59,10 @@ ________________________________________________________________________________
 ### The word "Intelligence"
 ![image](https://user-images.githubusercontent.com/50255936/110489513-6b13c780-812a-11eb-9e31-8cc06fd05904.png)
 __________________________________________________________________________
-
-
-
-
+## Recognition Accuracy in 20 Testing Times using DTW
+![image](https://user-images.githubusercontent.com/50255936/110490317-250b3380-812b-11eb-9c98-4de67695d26c.png)
+_____________________________________________________________________________________
+## Hardware Setup
+![image](https://user-images.githubusercontent.com/50255936/110490720-8fbc6f00-812b-11eb-842a-8dfb9cdf1b6e.png)
 
 
