@@ -8,7 +8,7 @@ ________________________________________________________________________________
 * Performed recognition using Vector Quantization (VQ) and Dynamic Time Warping (DTW)
 * Built a prototype of house and  attached the door, which is automated by using ARDUINO controlling servo motor
 * Sent the recognized output from MATLAB to ARDUINO using Bluetooth and  ARDUINO performed open and close of the door based on the recognition ouput
-* Obtained 90% of recognition accuracy for the user
+* Obtained 90% of recognition accuracy for the user by using Vector Quantization for recognition
 ________________________________________________________________________________________________________
 ## SetUp Environment
 * MATLAB (>2018a version)
@@ -64,5 +64,28 @@ __________________________________________________________________________
 _____________________________________________________________________________________
 ## Hardware Setup
 ![image](https://user-images.githubusercontent.com/50255936/110490720-8fbc6f00-812b-11eb-842a-8dfb9cdf1b6e.png)
+_____________________________________________________________________
+## How the system works
+* Identifying the user is done by asking the user to type the name before recording the test signal
+* Identifying the user, recording of the test signal, preprocessing, extracting features, matching features and assigning numbers to recognized speech output are done by MATLAB in PC
+* The assigned number of recognied speech output from MATLAB is sent to Arduino by serial communication via Bluetooth
+* The Arduio, which has already programmed, control devices such as LCD display, servo motor (for closing and opening door), buzzer and LED indicators
+* Firstly, the user is identified by asking the user to type the name
+* If the name is the same, speech recognition process will continue
+* If the name is wrong or the test voice signal features are different from the database, the Red LED indicator and buzzer will turn on, LCD display will show that the user is the imposter and the door will be in close condition
+* If the name is right and recognized output is "Open", Green LED indicator will turn on, LCD display will show "Welcome Home" and the door will open and it will close again after 3s of opening
+
+![image](https://user-images.githubusercontent.com/50255936/110492357-10c83600-812d-11eb-969a-0ddf4cb61dc0.png)
+
+### When the voice is different
+![image](https://user-images.githubusercontent.com/50255936/110492624-5422a480-812d-11eb-9499-6acd713a3e11.png)
+
+### When user's voice and trained voice are matched
+![image](https://user-images.githubusercontent.com/50255936/110492860-76b4bd80-812d-11eb-82a6-dce6f09cddeb.png)
+
+![image](https://user-images.githubusercontent.com/50255936/110493067-82a07f80-812d-11eb-9b45-171ac2a00629.png)
+
+
+
 
 
