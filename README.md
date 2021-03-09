@@ -37,7 +37,26 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________
 ## Recognition Accuracy with different codebook sizes in 20 testing times using VQ for 6 words with different syllables
 ### The word "Open"
-![image](https://user-images.githubusercontent.com/50255936/110488947-ede85280-8129-11eb-8770-c864cacba94c.png)
+![image](https://user-images.githubusercontent.com/50255936/110489185-25ef9580-812a-11eb-977b-be46d39d5b34.png)
+
 ### The word "Close"
-![image](https://user-images.githubusercontent.com/50255936/110489052-035d7c80-812a-11eb-960f-51e77e889628.png)
+![image](https://user-images.githubusercontent.com/50255936/110489223-2ee06700-812a-11eb-91db-12f7d4acfd2b.png)
+
+### The word "Hello"
+![image](https://user-images.githubusercontent.com/50255936/110489302-3e5fb000-812a-11eb-9f54-f38b0649cbee.png)
+
+### The word "Camera"
+![image](https://user-images.githubusercontent.com/50255936/110489366-4d466280-812a-11eb-98ce-d2e1703c9452.png)
+
+### The word "Gallery"
+![image](https://user-images.githubusercontent.com/50255936/110489429-5c2d1500-812a-11eb-8971-26bf13a0ef82.png)
+
+### The word "Intelligence"
+![image](https://user-images.githubusercontent.com/50255936/110489513-6b13c780-812a-11eb-9e31-8cc06fd05904.png)
+__________________________________________________________________________
+
+
+
+
+
 
