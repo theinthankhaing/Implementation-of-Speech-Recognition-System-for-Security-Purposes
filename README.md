@@ -35,3 +35,9 @@ ________________________________________________________________________________
 ## Overall Block Diagram of DTW system
 ![image](https://user-images.githubusercontent.com/50255936/110487602-b200bd80-8128-11eb-827f-2303b6cc6686.png)
 _______________________________________________________________________________________________________________________________
+## Recognition Accuracy with different codebook sizes in 20 testing times using VQ for 6 words with different syllables
+### The word "Open"
+![image](https://user-images.githubusercontent.com/50255936/110488947-ede85280-8129-11eb-8770-c864cacba94c.png)
+### The word "Close"
+![image](https://user-images.githubusercontent.com/50255936/110489052-035d7c80-812a-11eb-960f-51e77e889628.png)
+
