@@ -78,12 +78,14 @@ _____________________________________________________________________
 ![image](https://user-images.githubusercontent.com/50255936/110492357-10c83600-812d-11eb-969a-0ddf4cb61dc0.png)
 
 ### When the voice is different
-![image](https://user-images.githubusercontent.com/50255936/110492624-5422a480-812d-11eb-9499-6acd713a3e11.png)
+![image](https://user-images.githubusercontent.com/50255936/110493608-bd0a1c80-812d-11eb-982f-46928b4e6710.png)
 
 ### When user's voice and trained voice are matched
 ![image](https://user-images.githubusercontent.com/50255936/110492860-76b4bd80-812d-11eb-82a6-dce6f09cddeb.png)
 
 ![image](https://user-images.githubusercontent.com/50255936/110493067-82a07f80-812d-11eb-9b45-171ac2a00629.png)
+
+https://user-images.githubusercontent.com/50255936/110493627-c2fffd80-812d-11eb-9d85-9dbcbe91c5ad.mp4
 
 
 
