@@ -9,7 +9,7 @@ ________________________________________________________________________________
 * Built a prototype of house and  attached the door, which is automated by using ARDUINO controlling servo motor
 * Sent the recognized output from MATLAB to ARDUINO using Bluetooth and  ARDUINO performed open and close of the door based on the recognition ouput
 * Obtained 90% of recognition accuracy for the user by using Vector Quantization for recognition
-* Programming Language - MATLAB, C++
+* Programming Languages - MATLAB, C++
 ________________________________________________________________________________________________________
 ## SetUp Environment
 * MATLAB (>2018a version)
